@@ -1,0 +1,115 @@
+two types of elements: inline and block level elements bases on display behaviour
+List of block level elements: starts in new line, width is whole line
+p
+h1, h2, h3, h4, h5, h6 =headings
+ol, ul
+pre = pre formated text
+address  =postal address
+blockquote =create quote
+dl
+div
+fieldset
+form  = send form data
+hr  = horizontal rule break  2px gradient shadow.
+noscript
+table
+
+Inline elements: starts in same line, width is  their content
+<b> ,<i> , <s>( stuck off) , <u>(underline) , <strong> , <em>, <del> <time>
+<img> support width and hight
+< a href> (anchor tage)
+frameset  - <frame src="">
+
+
+List of block level Attributes(additional information of elements) <tag attribute="value">
+abbr
+accept charset
+accept
+accesskey
+action
+align
+alt
+archive
+axis
+border
+cellpadding
+cellspacing
+char
+charoff
+charset
+checked
+cite
+id and class
+classid
+codebase
+codetype
+cols
+colspan
+content
+coords
+data
+datetime
+declare
+defer
+dir
+disabled
+enctype
+for
+frame
+frameborder
+headers
+height
+href
+hreflang
+http-equiv
+ismap
+label
+lang-and-dir
+longdesc
+marginheight
+marginwidth
+maxlength
+media
+method
+multiple
+name
+nohref
+noresize
+onblur
+onchange
+event attributes
+event attributes continued
+event attributes completed
+onfocus
+onload
+onreset
+onselect
+onsubmit
+onunload
+profile
+readonly
+rel
+rev
+rows
+rowspan
+rules
+scheme
+scope
+scrolling
+selected
+shape
+size
+span
+src
+standby
+style
+summary
+tabindex
+target
+title
+type
+usemap
+valign
+value
+valuetype
+width
