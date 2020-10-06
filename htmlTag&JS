@@ -1,0 +1,87 @@
+CSS:
+CSS  Implementation 
+Inline  within <style>
+Internal CSS
+External CSS: <link rel="stylesheet" href="presentation.css" type="text/css">
+Selector Types: style rule applied as 
+,  tage, tage
+. class
+# id
+ >child selector
+Div  p decedent selector
++ adjacent Sibling Selector
+~ general sibling selector h1 ~ P
+
+	Table: 
+<table> for long tab
+<thead>
+<tbody>
+<tfoot>
+<tr> <th>
+</th></td>
+<tr> <td> </td></tr>
+Colspan=2
+Rowspan=2 
+<th scope=”col” or “row”
+	Order/Unorder List:
+<ol><li>
+</li></ol>
+<ul> <li>
+</li></ul>
+Nested with order list &unorder list
+
+Definition List:
+
+Definition list <dl> , definition term <dt>, definition define<dd>
+	Anchor tag:
+Folder/ review.html
+Forward
+“../index.html
+../../index.html”
+From child to index.
+
+< a href=” url”
+For new page
+<a href=””
+target=”_blank”>
+within Same page:
+<a href=”#idname”>
+external page:
+< a href=www.youtube.com>
+Consider relative and absolute url
+Email Link:
+<a href=”mailto:ishassan42
+@gmail.com
+
+
+Images:
+Use .jpg for multi color
+Use .png  for flat color
+ Use Gif  
+These are bitmap colours
+Vector image:
+Resolution independent. No quality affected.
+
+Image rules:
+Right format (jpg,png,gif)
+Right size
+Right Resolution(72 px/in
+Book image (300dpi)
+Image in Paragraph:
+1.	Before paragraph
+2.	After paragraph
+3.	Middle para	Image tag:
+Figure and figure caption: image and caption assocates
+<figure><img src=”url” atl=”atternate” >
+<figurecaption> write caption </figurecaption> </figure>	Forms:	Grid CSS:
+*{ margin:0; padding:0; box-sizing:border;}
+
+Main{width:75%; margin:50px auto; border:1px solid grey;
+Display:gird; 
+Grid-gap: 20px;
+Grid-template-rows: 200px 400px 200px;
+Grid-template-columns: repeat(3,1fr) 100px;}
+
+.div1{background-color:red;
+Grid-colum:1/-1;
+Grid-row: 2/4}
